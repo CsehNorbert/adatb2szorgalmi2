@@ -1,0 +1,16 @@
+C:\Users\cnsor\source\repos\adatb1_html_to_ER\adatb1_html_to_ER\bin\Debug\net5.0\adatb1_html_to_ER.exe
+C:\Users\cnsor\source\repos\adatb1_html_to_ER\adatb1_html_to_ER\bin\Debug\net5.0\adatb1_html_to_ER.deps.json
+C:\Users\cnsor\source\repos\adatb1_html_to_ER\adatb1_html_to_ER\bin\Debug\net5.0\adatb1_html_to_ER.runtimeconfig.json
+C:\Users\cnsor\source\repos\adatb1_html_to_ER\adatb1_html_to_ER\bin\Debug\net5.0\adatb1_html_to_ER.runtimeconfig.dev.json
+C:\Users\cnsor\source\repos\adatb1_html_to_ER\adatb1_html_to_ER\bin\Debug\net5.0\adatb1_html_to_ER.dll
+C:\Users\cnsor\source\repos\adatb1_html_to_ER\adatb1_html_to_ER\bin\Debug\net5.0\ref\adatb1_html_to_ER.dll
+C:\Users\cnsor\source\repos\adatb1_html_to_ER\adatb1_html_to_ER\bin\Debug\net5.0\adatb1_html_to_ER.pdb
+C:\Users\cnsor\source\repos\adatb1_html_to_ER\adatb1_html_to_ER\obj\Debug\net5.0\adatb1_html_to_ER.csproj.AssemblyReference.cache
+C:\Users\cnsor\source\repos\adatb1_html_to_ER\adatb1_html_to_ER\obj\Debug\net5.0\adatb1_html_to_ER.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cnsor\source\repos\adatb1_html_to_ER\adatb1_html_to_ER\obj\Debug\net5.0\adatb1_html_to_ER.AssemblyInfoInputs.cache
+C:\Users\cnsor\source\repos\adatb1_html_to_ER\adatb1_html_to_ER\obj\Debug\net5.0\adatb1_html_to_ER.AssemblyInfo.cs
+C:\Users\cnsor\source\repos\adatb1_html_to_ER\adatb1_html_to_ER\obj\Debug\net5.0\adatb1_html_to_ER.csproj.CoreCompileInputs.cache
+C:\Users\cnsor\source\repos\adatb1_html_to_ER\adatb1_html_to_ER\obj\Debug\net5.0\adatb1_html_to_ER.dll
+C:\Users\cnsor\source\repos\adatb1_html_to_ER\adatb1_html_to_ER\obj\Debug\net5.0\ref\adatb1_html_to_ER.dll
+C:\Users\cnsor\source\repos\adatb1_html_to_ER\adatb1_html_to_ER\obj\Debug\net5.0\adatb1_html_to_ER.pdb
+C:\Users\cnsor\source\repos\adatb1_html_to_ER\adatb1_html_to_ER\obj\Debug\net5.0\adatb1_html_to_ER.genruntimeconfig.cache
